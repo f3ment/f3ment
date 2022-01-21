@@ -5,8 +5,8 @@
 📫 How to reach me: https://t.me/f3ment or f3ment@protonmail.com
 Reach me here ---> https://f3ment.github.io/francesco/
 ```
-<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="francesco-trementozzi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/francesco-trementozzi?trk=profile-badge">Francesco Trementozzi</a></div>
-              
+<a href="https://www.linkedin.com/in/francesco-trementozzi">Linkedin</a>
+<a href="instagram.com/f3ment">Instagram</a>
 
 <!---
 f3ment/f3ment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
